@@ -1,0 +1,16 @@
+Hitalo 21/05 3:20
+
+Entidade Time criada
+Primeira busca implementada
+Tudo ok
+
+-------------------------------||---------------------------------
+Thales 22/05 23h15
+
+Adicionado os métodos buscaSobrenome; buscaNomeSobrenome;
+buscaSobrenomeApelido; busca NomeSobrenomeApelido
+
+-------------------------------||----------------------------------
+Hitalo 22/05 23:55
+
+Adicionado metodos buscaNome, buscaNomeApelido, buscaApelido 

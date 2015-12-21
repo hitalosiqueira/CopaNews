@@ -1,0 +1,57 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 7, 2014, 12:38:37 PM
+    Author     : hitalo
+*/
+body{
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 2%;
+    background-image: url('../Imagens/fundo.jpg');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.bs-example{
+    background-color: #f8f8f8;
+    border-color: #e7e7e7;
+    border-radius: 10px;
+    font-family: Droid Sans, Tahoma;
+}
+
+ol{
+    margin-top: 2%;
+    font-family: Droid Sans, Tahoma;
+    font-size: 14px;
+    color: #fff;
+}
+
+.breadcrumb{
+    margin-left: -3%;
+    width: auto;
+    background-color: #fff;
+    margin-top: -5%;
+}
+.jumbotron{
+    margin-top: 2%; 
+    height: auto;
+    border-radius: 10px;
+    width: 50%;
+    font-size: 30px;
+    font-family: Droid Sans, Tahoma;
+    background-color: #fff;
+    color: #000;
+}
+
+h2{
+    font-weight: bold;
+    margin-top: -3%; 
+}
+
+
+
+
